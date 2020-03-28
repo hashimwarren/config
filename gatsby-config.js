@@ -54,8 +54,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `John Doe`,
-        short_name: `johndoe`,
+        name: `Config Mag`,
+        short_name: `configmag`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#3182ce`,
